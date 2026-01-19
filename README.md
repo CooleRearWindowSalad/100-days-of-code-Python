@@ -1,13 +1,12 @@
 # 100 days of code - Python Edition
 
-A personal Python learning repository focused on coding challenges, exercises, and reading assignments.
-
 ## 📖 About
 
-This repository documents my journey through Python practice, inspired by the 100 Days of Code challenge.
+This repository is used for my personal journey through the **100 Days of Code** challenge using Python.
 
-The goal is to learn Python programming by coding in it every day, completing small challenges, and reflecting on what 
-I learn.
+The goal of this project is to build consistency in Python programming by coding daily, completing small challenges, 
+studying theory, and reflecting on progress over time. It is intended as a learning log and reference, but
+others are welcome to explore or learn from it.
 
 ## 🎯 Goals
 
