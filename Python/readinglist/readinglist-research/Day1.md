@@ -4,6 +4,10 @@
 Python will be compiled from source code to bytecode and then the bytecode will be executed.
 
 ## What is the difference between Python and Java?
+**Python** is easier to learn and is often used for fast development, scripting and automation.
+
+On the other hand, **Java** generally offers better performance because the code is compiled to bytecode before execution.  
+It is commonly used for large-scale applications such as enterprise systems and Android apps.
 
 | Feature        | Python                             | Java                              |
 |----------------|------------------------------------|-----------------------------------|
@@ -13,11 +17,6 @@ Python will be compiled from source code to bytecode and then the bytecode will 
 | Compilation    | Bytecode -> Python Virtual Machine | Bytecode -> Java Virtual Machine  |
 | Learning Curve | Easier                             | Harder                            |
 | Paradigm       | Multi-paradigm                     | Primarily OOP                     |
-
-**Python** is easier to learn and is often used for fast development, scripting and automation.
-
-On the other hand, **Java** generally offers better performance because the code is compiled to bytecode before execution.  
-It is commonly used for large-scale applications such as enterprise systems and Android apps.
 
 ## What is the difference between Compiler and Interpreter?
 
