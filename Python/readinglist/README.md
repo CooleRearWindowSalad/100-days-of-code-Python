@@ -13,6 +13,7 @@ Each day includes:
 ## 🗂️ Daily Reading List
 
 - [day01.md](readinglist-research/Day1.md) – Python basics & execution
+- [day02.md](readinglist-research/Day2.md)
 
 > More days will be added as the challenge progresses.
 
